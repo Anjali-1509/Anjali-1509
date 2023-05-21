@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Anjali-1509/Anjali-1509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Anjali-1509
 
 👋 Hello! I'm Anjali, a passionate developer with a keen interest in building impactful projects.
